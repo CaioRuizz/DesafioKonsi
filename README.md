@@ -4,7 +4,7 @@ Desafio técnico para aplicação na vaga de desenvolvedor back-end na empresa K
 
 # Objetivo
 
-O objetivo do desafio é desenvolver uma API que receberá o CPF do cliente e as credenciais de login do [portal extratoclube](http://extratoclube.com.br/) e retorne a matrícula do servidor no portal.
+O objetivo do desafio é desenvolver uma API que receba o CPF do cliente e as credenciais de login do [portal extratoclube](http://extratoclube.com.br/) e retorne a matrícula do servidor no portal.
 
 # Serviços
 
