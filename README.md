@@ -88,7 +88,7 @@ Para tornar o Crawler acessível, será utilizado um servidor HTTP com flask par
 
 ## Rotas
 
-A única rota do Crawler será `/numeros_beneficios`, que retornará a lista com os números dos benefícios ou com a mensagem de erro.
+A única rota do Crawler será `/extratoclube/numeros_beneficios`, que retornará a lista com os números dos benefícios ou com a mensagem de erro.
 
 ### Parâmetros
 
